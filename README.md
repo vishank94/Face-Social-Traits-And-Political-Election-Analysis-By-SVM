@@ -1,0 +1,1 @@
+# Face-Social-Traits-And-Political-Election-Analysis-By-SVM
